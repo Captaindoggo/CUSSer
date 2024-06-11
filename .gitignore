@@ -7,6 +7,7 @@ __pycache__/
 *.so
 AudioWAV/
 ./AudioWAV/
+data/opensmileDF_lowlevel.csv
 
 
 
