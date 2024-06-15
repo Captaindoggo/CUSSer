@@ -8,8 +8,10 @@ __pycache__/
 AudioWAV/
 ./AudioWAV/
 data/opensmileDF_lowlevel.csv
-
-
+model/
+cache/
+./model/
+./cache/
 
 
 # Distribution / packaging
