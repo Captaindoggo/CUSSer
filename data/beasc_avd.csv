@@ -1,0 +1,4 @@
+ActorID,Emotion,Path,arousal,valence,dominance
+21,Surprise,/kaggle/input/beasc-dataset/t9h6p943xy-2/BEASC Dataset/Actor 21/03-01-04-02-03-03-21.wav,0.109515324,0.21997395,0.19622454
+25,Happy,/kaggle/input/beasc-dataset/t9h6p943xy-2/BEASC Dataset/Actor 25/03-01-02-01-03-01-25.wav,0.104069166,0.18408495,0.2560817
+17,Happy,/kaggle/input/beasc-dataset/t9h6p943xy-2/BEASC Dataset/Actor 17/03-01-02-01-01-01-17.wav,-0.0060645156,0.079192854,0.1284914
